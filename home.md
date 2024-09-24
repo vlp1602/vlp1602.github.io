@@ -5,6 +5,6 @@ permalink: /
 ---
 
 # PIETRO BARDINI
-Bio(){  
+Bio(){ 
 Audio-visual artist (IT/UK)
 }
