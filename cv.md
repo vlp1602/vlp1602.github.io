@@ -1,7 +1,7 @@
 ---
 layout: page
 title: /CV
-permalink: /home/
+permalink: /cv/
 ---
 
 # Projects  
