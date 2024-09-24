@@ -4,8 +4,7 @@ layout: page
 permalink: /IDMCITDHIL.md/
 ---
 
-# I Dropped My Camera Into The Deepest Hole In London
-//-------------------
+# I Dropped My Camera Into The Deepest Hole In London  
 Film + Sculpture: Our Slanted. Deserted. Remains( ){
   hARTslane,  11-13 June 2024.
 };  
