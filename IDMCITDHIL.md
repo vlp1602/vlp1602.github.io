@@ -15,13 +15,13 @@ Deep beneath the asphalt in a maze of poorly lit concrete tunnels, muddy waters 
 */
   
 <div style="text-align: center;">
-    <img src="/images/tunnel.png/" alt="Video Still" class="medium-image">
+    ![Video Still](/images/tunnel.png)
 </div>
   
 <div style="text-align: center;">
-    <img src="/images/sewer.jpg" alt="Sewer" class="medium-image">
+    ![Video Still](/images/sewer.jpg)
 </div>
-  
+
 <div style="text-align: center;">
-    <img src="/images/performance.jpg/" alt="Performance" class="medium-image">
+    ![Video Still](/images/performance.jpg)
 </div>
