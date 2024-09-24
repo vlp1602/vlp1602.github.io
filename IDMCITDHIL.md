@@ -1,6 +1,6 @@
 ---
 title: I Dropped My Camera Into The Deepest Hole in London
-layout: home
+layout: page
 permalink: /IDMCITDHIL.md
 ---
 
