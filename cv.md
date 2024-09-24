@@ -50,34 +50,33 @@ Home (Common Ground), Barbican Foyer;
 # Residencies
 2021(){
 arebyte Gallery, Residency with Goldsmiths Computing Dept.;
-}
+}  
 2020-21 () {
 SMQB, University of  Birmingham;
-};
+}  
 2020 () {
 The Crypt Gallery, London;
-};
-//------------------------------------------------------------
+}  
+//------------------------------------------------------------  
 # Other
 2023(){
 Specialist Technical Instructor for Physical Computing, Royal College of Art (London);
-};
+}  
 2019(){
 Judge at Artsdepot Open;
 Barbican Design Yourself collective;
-};
+}  
 2018(){
-MCPS
-Production Music Awards: Nomination for Best ambient/minimalist composition;
+MCPS Production Music Awards: Nomination for Best ambient/minimalist composition;
 Concrete Assembly, Curatorial Collective with Cosima Cobley-Carr and Maisie Linford;
 Barbican Young Visual Art group;
-};
-//------------------------------------------------------------
+}  
+//------------------------------------------------------------  
 # Workshops
-2019 () {
+2019(){
 Generative Techno at the tea table, SkyArts: Barbican OpenFest Art50, London;
-};
-2018 () {
+}  
+2018(){
 Four Sound Portraits, sound tour of Another Kind of Life, Barbican Gallery, London;
 Storytelling by the fireplace, Barbican Open Fest 2018, London;
-};
+}
