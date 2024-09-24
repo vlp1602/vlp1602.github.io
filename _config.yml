@@ -2,8 +2,8 @@ title: 'Pietro Bardini'
 description: "Pietro Bardini | Artist"
 
 header_pages:
-  - index.md
-  - peter.md
+  - home.md
+  - corpusAlign.md
   - cv.md
   - IDMCITDHIL.md
 
