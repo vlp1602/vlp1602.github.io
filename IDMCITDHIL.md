@@ -1,7 +1,7 @@
 ---
 title: I Dropped My Camera Into The Deepest Hole in London
 layout: home
-permalink: /I dropped my camera
+permalink: /IDMCITDHIL.md
 ---
 
 # I Dropped My Camera Into The Deepest Hole In London
