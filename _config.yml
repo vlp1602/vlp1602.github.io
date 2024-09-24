@@ -3,9 +3,11 @@ description: "Pietro Bardini | Artist"
 
 header_pages:
   - home.md
-  - corpusAlign.md
   - cv.md
   - IDMCITDHIL.md
+  - corpusAlign.md
+  
+  
 
 style: light 
 
