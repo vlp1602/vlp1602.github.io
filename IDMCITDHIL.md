@@ -13,15 +13,7 @@ Film + Sculpture: Our Slanted. Deserted. Remains( ){
 Film mixing CCTV sewer inspections with footage of central London and computer-generated sewage systems. 
 Deep beneath the asphalt in a maze of poorly lit concrete tunnels, muddy waters flow toward darkness. In the city’s digestion system, we encounter the remnants of a life before and through the deepest hole, waste becomes a vessel of truth. 
 */
-  
-<div style="text-align: center;">
-    ![Video Still](/images/tunnel.png)
-</div>
-  
-<div style="text-align: center;">
-    ![Video Still](/images/sewer.jpg)
-</div>
 
-<div style="text-align: center;">
-    ![Video Still](/images/performance.jpg)
-</div>
+<img src="images/tunnel.png" alt="Film Still" class="centered-image">
+<img src="images/sewer.jpg" alt="Sewer Sculpture" class="centered-image">
+<img src="images/performance.jpg" alt="Performance" class="centered-image">
