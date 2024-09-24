@@ -1,13 +1,23 @@
 ---
 layout: page
-title: /about
-permalink: /about/
+title: /CV
+permalink: /cv/
 ---
 
-# jekyll-theme-console
+# PROJECTS
+2024{\
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+DYCP, Arts Council England, Composing for Strings;\
+
+Live A/V, NEWPHORIA: THE END OF REALITY RAVE, Corsica Studios, [ecolagbohrsac2021 x Fetchish];\
+
+I Dropped My Camera Into The Deepest Hole In London, Our Slanted. Deserted. Remains, hARTslane;\
+
+Rasa Machine with  Dominique Savitri Bonarjee, Goldsmiths SIML supported by IKLECTIK; \
+
+}\
+
+
 
 ## What is jekyll?
 
