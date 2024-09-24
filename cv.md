@@ -20,13 +20,13 @@ Live A/V, Cafe OTO (with Maria Bertel & Ecolagbohrsac);
 Sound Performance, Natalia Janula & Joanna Wierzbicka, I MIGHT HAVE BITTEN OFF MORE THAN I CAN CHEW, Generation and Display Gallery;  
 Corpus Align, Hyperspace, IKLECTIK;  
 }  
-\  
+\
 2022{  
 Partial Defrag, Spectacle for Later, Computational Film Festival at Rio Cinema, London;  
 SL_genCore, Otherness at IKLECTIK, London;  
 HYPERSPACE with Irruptive Chora;  
 }  
-\  
+\
 2021{ 
 The Wrong Biennale ‘21 with Paraspaces and arebyte;  
 Paraspaces, arebyte Gallery with Goldsmiths Computing dept.;AEco.16o.1i, Corpora Aliena at IKLECTIK, London;  
@@ -52,4 +52,3 @@ A Knave of Diamonds (Modern Couples- Young Barbican Night), London;
 Blank (Hush Hush: Conversation with Myself - curated by Concrete Assembly), Guest Projects;  
 Home (Common Ground), Barbican Foyer;  
 }  
-
