@@ -1,11 +1,11 @@
 ---
-title: /
+title: Pietro Bardini
 layout: home
 permalink: /
 ---
 
-# Lorem ipsum
+# PIETRO BARDINI
 
-Bio(){
-Audio-visual artist (IT/UK)
+Bio(){\
+Audio-visual artist (IT/UK)\
 }
