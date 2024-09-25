@@ -1,5 +1,5 @@
 ---
-title: **Pietro Bardini**
+title: Pietro Bardini
 layout: home
 permalink: /
 ---
