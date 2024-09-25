@@ -5,8 +5,8 @@
 :root {
   --base-color: #000;
   --border: dashed 1px rgba(0, 0, 0, 1);
-  --selection-background: rgba(255, 60, 0, 0.98);
-  --selection-text: #FFF;
+  --selection-background: rgba(255, 60, 0, 0.8);
+  --selection-text: rgba(255, 60, 0, 0.8);
   --background-color: #dedede;
   --text-color: var(--base-color);
   --placeholder-color: var(--base-color);
