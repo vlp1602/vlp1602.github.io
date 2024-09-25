@@ -8,7 +8,7 @@ permalink: /CorpusAlign/
 
 
 Live A/V performance + Sculpture: Hyperspace( ){
-IKLECTIK, 18, February 2023;
+ IKLECTIK, 18, February 2023;
 };
 
 /*
