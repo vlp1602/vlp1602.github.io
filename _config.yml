@@ -5,14 +5,14 @@ header_pages:
   - home.md
   - cv.md
   - IDMCITDHIL.md
-  - corpusAlign.md
+  - CorpusAlign.md
   - PD1.md
   
   
 
 style: light 
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://instagram.com/pietrobardini">IG</a>'
 
 # Build settings
 markdown: kramdown
