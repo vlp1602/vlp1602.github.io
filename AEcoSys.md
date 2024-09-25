@@ -1,5 +1,5 @@
 ---
-title: AEcoSys
+title: /AEcoSys
 layout: page
 permalink: /AEcoSys.md/
 ---
