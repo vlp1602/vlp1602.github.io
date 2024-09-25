@@ -5,9 +5,10 @@ permalink: /
 ---
 
 # PIETRO BARDINI
-Bio(){ 
-Audio-visual artist (IT/UK)
+Bio() { 
+  Audio-visual artist (IT/UK);
+  pietrobardini.contact[at]gmail.com;
 };
 
-//---- pietrobardini.contact[at]gmail.com
+
 
