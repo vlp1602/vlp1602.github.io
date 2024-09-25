@@ -1,5 +1,5 @@
 ---
-title: ⋆Pietro Bardini
+title: HI
 layout: home
 permalink: /
 ---
