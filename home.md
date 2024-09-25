@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # PIETRO BARDINI
-  Audio-visual artist (IT/UK);
-  pietrobardini.contact[at]gmail.com;
-                                      ✴
+Audio-visual artist (IT/UK);
+pietrobardini.contact[at]gmail.com;
+✴
 
