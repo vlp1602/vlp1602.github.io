@@ -1,3 +1,9 @@
+---
+layout: page
+title: /Combat
+permalink: /Combat/
+---
+
 # Combat
 Sound Performance: Lee Krasner: Living Colour() {
   Barbican Centre, 19 July 2019;
