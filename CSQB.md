@@ -1,3 +1,9 @@
+---
+title: /CSQB
+layout: page
+permalink: /CSQB.md/
+---
+
 # Cycles of Healing
 Sound Installation : CSQB Residency ( ) {
  [Centre for System Modelling and Quantitative Biomedicine](https://www.birmingham.ac.uk/research/systems-modelling-and-quantitative-biomedicine/index.aspx), University of Birmingham, Jan. 2020–21;
