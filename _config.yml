@@ -1,5 +1,5 @@
 title: 'Pietro Bardini'
-description: "Pietro Bardini | Audio-Visual Artist"
+description: "Pietro Bardini | AV Artist"
 
 header_pages:
   - home.md
@@ -12,7 +12,10 @@ header_pages:
   - Blessings.md
   - SteelTuner.md
   - YSOSLS.md
-
+  - Heart.md
+  - Crypt.md
+  - MP.md
+  - Combat.md
 
 style: light 
 
