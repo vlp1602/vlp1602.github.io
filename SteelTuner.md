@@ -6,9 +6,9 @@ permalink: /SteelTuner/
 
 # Steel Tuner
 
-Sound Performance: Amoenus RnD Showcase(){  
+Sound Performance: [Amoenus](https://amoenus.co.uk/) RnD Showcase(){  
   IKLECTIK, (London) 26 June 2021;
-  An excerpt of the performance can be viewed below @16:03. Read the coverage on CLOT Mag;
+  An excerpt of the performance can be viewed below @16:03. Read the coverage on [CLOT Mag](https://www.clotmag.com/oped/amoenus-w-iklectik-art-lab-artistic-explorations-into-3d-audio-by-agata-kik?fbclid=IwAR0mPEVAHFG130acbBObnwlFd6qAaz3pthespKNviV7YAMnw2qYcA_t2k6Y);
 };
 
 /*  
