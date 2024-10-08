@@ -17,5 +17,5 @@ Deep beneath the asphalt in a maze of poorly lit concrete tunnels, muddy waters 
 [<img alt="Film Still" class="centered-image" src="DroppedMyCamera_Tunnel.jpg"  />](https://youtu.be/QwcH-mlLNd8)
 <img alt="Sewer Sculpture" class="centered-image" src="DroppedMyCamera_Sewer.jpg" />
 <img alt="Film Still" class="centered-image" src="DroppedMyCamera_Street.jpg" />
-<img alt="Performance" class="centered-image" src="\images\Performance.jpg" />
+<img alt="Performance" class="centered-image" src="\images\performance.jpg" />
 /images/performance.jpg
