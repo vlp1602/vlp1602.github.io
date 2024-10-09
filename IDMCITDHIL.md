@@ -14,8 +14,8 @@ Film mixing CCTV sewer inspections with footage of central London and computer-g
 Deep beneath the asphalt in a maze of poorly lit concrete tunnels, muddy waters flow toward darkness. In the city’s digestion system, we encounter the remnants of a life before and through the deepest hole, waste becomes a vessel of truth. 
 */
 
-![Performance](https://github.com/vlp1602/pb.github.io/raw/9b2161779b024f7ebb24c83d24c7b67ab973b6be/DroppedMyCamera_Performance.jpg)
+![Performance](https://github.com/vlp1602/pb.github.io/raw/c98a274f9116c65d07361cef159cdd6408dc7221/images/performance.jpg)
 [<img alt="Film Still" class="centered-image" src="DroppedMyCamera_Tunnel.jpg"  />](https://youtu.be/QwcH-mlLNd8)
-<img alt="Sewer Sculpture" class="centered-image" src="DroppedMyCamera_Sewer.jpg" />
-<img alt="Film Still" class="centered-image" src="DroppedMyCamera_Street.jpg" />
+<img alt="Sewer Sculpture" class="centered-image" src="https://github.com/vlp1602/pb.github.io/raw/c98a274f9116c65d07361cef159cdd6408dc7221/images/performance.jpg" />
+<img alt="Film Still" class="centered-image" src="images/sewer.jpg" />
 <img alt="Performance" class="centered-image" src="images/performance.jpg" />
