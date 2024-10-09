@@ -1,6 +1,6 @@
 ---
 title: /IDMCITDHIL
-layout: page
+layout: home
 permalink: /IDMCITDHIL.md/
 ---
 
