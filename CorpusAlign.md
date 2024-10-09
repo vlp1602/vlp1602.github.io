@@ -6,7 +6,7 @@ permalink: /CorpusAlign/
 
 # Corpus Align
 
-Live A/V performance + Sculpture: [Hyperspace](https://irruptivechora.com/)( ){
+<ins>Live A/V performance + Sculpture</ins>: [Hyperspace](https://irruptivechora.com/)( ){
  IKLECTIK, 18, February 2023;
 };
 
