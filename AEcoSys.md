@@ -14,8 +14,7 @@ AEco (Ancestral Ecosystem) is an ecosystemic algorithm which has been used at th
 };
 
 //----AEco.5o [AV INSTALLATION] &  AEco.16o.1i [PERFORMANCE]------
-*Two adaptions for sound composition. Within the ecosystem can live up to 15 synthesised voices which learn how to harmonise each other by interpreting the ecosystem’s history. The synthesis is modelled to mimic the sound of wolves howling, the voices altogether will behave like a wolf pack, with a leading voice (AURA) driving the chant. AEco.5o is designed for a five-channel setup, with up to 3 voices per channel. 16o.1i requires 16 distinctive outputs and uses the input from a live instrument to drive the ecosystem dynamics. The result is a synthetic choir which tries to 
-harmonise the driver.*
+*Two adaptions for sound composition. Within the ecosystem can live up to 15 synthesised voices which learn how to harmonise each other by interpreting the ecosystem’s history. The synthesis is modelled to mimic the sound of wolves howling, the voices altogether will behave like a wolf pack, with a leading voice (AURA) driving the chant. AEco.5o is designed for a five-channel setup, with up to 3 voices per channel. 16o.1i requires 16 distinctive outputs and uses the input from a live instrument to drive the ecosystem dynamics. The result is a synthetic choir which tries to harmonise the driver.*
 
    <sub>*click to watch ↴*</sub>
     
