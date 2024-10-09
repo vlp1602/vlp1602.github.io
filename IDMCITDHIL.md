@@ -16,6 +16,6 @@ Deep beneath the asphalt in a maze of poorly lit concrete tunnels, muddy waters 
 
 ![Performance](https://github.com/vlp1602/pb.github.io/raw/c98a274f9116c65d07361cef159cdd6408dc7221/images/performance.jpg)
 [<img alt="Film Still" class="centered-image" src="DroppedMyCamera_Tunnel.jpg"  />](https://youtu.be/QwcH-mlLNd8)
-<img alt="Sewer Sculpture" class="centered-image" src="https://github.com/vlp1602/pb.github.io/raw/c98a274f9116c65d07361cef159cdd6408dc7221/images/performance.jpg" />
+<img alt="Sewer Sculpture" class="centered-image" src="/pb.github.io/images/performance.jpg" />
 <img alt="Film Still" class="centered-image" src="images/sewer.jpg" />
 <img alt="Performance" class="centered-image" src="images/performance.jpg" />
