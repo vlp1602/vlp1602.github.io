@@ -3,14 +3,14 @@
  */
 
 :root {
-  --base-color: #003aff;
+  --base-color: rgb(255,0,58);
   --border: dashed 1px rgba(0, 0, 0, 1);
-  --selection-background: rgba(77,117,255,0.65);
+  --selection-background: rgba(255,0,58,0.7);
   --selection-text: #FFF;
   --background-color: #cdcdcd;
   --text-color: var(--base-color);
   --placeholder-color: var(--base-color);
-  --link-color: rgba(255, 40, 0, 0.98);
+  --link-color: rgba(255, 70, 0, 0.98);
   --code-color-1: #aaaaaa;
   --code-color-2: #ffffcc;
   --code-color-3: #F00000;
