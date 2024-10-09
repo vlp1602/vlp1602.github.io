@@ -13,9 +13,23 @@ Film + Sculpture: Our Slanted. Deserted. Remains( ){
 
 
 
+<style>
+    .clickable-image img {
+        transition: 0.3s; /* Smooth transition */
+    }
+    .clickable-image.clicked img {
+        filter: brightness(0.5) sepia(1) hue-rotate(180deg); /* Color effect to make it appear orange */
+    }
+</style>
+
+<div class="clickable-image" onclick="this.classList.toggle('clicked');">
+    <img src="/pb.github.io/images/DroppedMyCamera_Tunnel.jpg" alt="Sample Image" width="300px">
+</div>
+
 <p align="center" style="font-size: 0.5em; font-style: italic;">
-    ▼click to open video in a new tab▼
+    ▼click to open video▼
 </p>
 [<img alt="Film Still" class="centered-image" src="/pb.github.io/images/DroppedMyCamera_Tunnel.jpg" />](https://youtu.be/QwcH-mlLNd8)
+
 <img alt="Film Still" class="centered-image" src="/pb.github.io/images/DroppedMyCamera_Street.jpg" />
 <img alt="Sewer Sculpture" class="centered-image" src="/pb.github.io/images/DroppedMyCamera_Sewer.jpg" />
