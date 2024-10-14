@@ -15,3 +15,4 @@ Sound Performance: [Amoenus](https://amoenus.co.uk/) RnD Showcase(){ 
 
 <sub>*click to watch (extracts from live performance) ↴*</sub>
 [<img alt="Steel Tuner at Amoenus RnD" class="centered-image" src="/pb.github.io/images/SteelTuner.png" />](https://player.vimeo.com/video/589309215?h=aa261a9f01)
+<img alt="Performance Still" class="centered-image" src="/pb.github.io/images/speaker.jpg" />
