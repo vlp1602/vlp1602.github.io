@@ -5,7 +5,7 @@ permalink: /YSOSLS.md/
 ---
 
 # You Speak of Soft Landing Spheres
-A/V Virtual Installation: solo show() { 
+<ins>A/V Virtual Installation</ins>: solo show() { 
   Leave of Absence Gallery, 13–27 August 2020;
 };
 
