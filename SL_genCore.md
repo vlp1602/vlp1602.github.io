@@ -6,7 +6,7 @@ permalink: /SL_genCore.md/
 
 # SL_genCore
 
-A/V Installation : Otherness () {
+<ins>A/V Installation</ins> : Otherness () {
   IKLECTIK 21, 29 May 2022;
 };
 
