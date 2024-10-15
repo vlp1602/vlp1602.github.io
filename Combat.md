@@ -5,7 +5,7 @@ permalink: /Combat/
 ---
 
 # Combat
-Sound Performance: Lee Krasner: Living Colour() {
+Sound Performance: [Lee Krasner: Living Colour](https://www.barbican.org.uk/whats-on/2019/event/lee-krasner-living-colour)() {
   Barbican Centre, 19 July 2019;
 }
 
