@@ -7,7 +7,9 @@ permalink: /cv/
 # Projects  
 2024{
 DYCP, Arts Council England, Composing for Strings; 
+  
 Live A/V, Strata+0.1 (STRATA Launch Event), Spanners, London;
+  
 Live A/V, NEWPHORIA: THE END OF REALITY RAVE, Corsica Studios, [ecolagbohrsac2021 x Fetchish];  
 I Dropped My Camera Into The Deepest Hole In London, Our Slanted. Deserted. Remains, hARTslane;  
 Rasa Machine with  Dominique Savitri Bonarjee, Goldsmiths SIML supported by IKLECTIK;
