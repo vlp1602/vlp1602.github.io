@@ -11,5 +11,5 @@ Sound Performance: Lee Krasner: Living Colour() {
 
 *Sound performance using color data from a live scan of Lee Krasner’s Combat (1965);*
 
-<img alt="Combat Performance Barbican Centre 2019" class="centered-image" src="/pb.github.io/images/Conbat.jpg" />
+<img alt="Combat Performance Barbican Centre 2019" class="centered-image" src="/pb.github.io/images/Combat.jpg" />
 
