@@ -5,7 +5,7 @@ permalink: /MP.md/
 ---
 
 # Minimal Probabilities (I/II/III)
-A/V Installation: [MK Calling 2020](https://www.mkgallery.org/whats-on/mk-calling-2020/) & [AI: More Than Human](https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human) (Young Barbican Night) & TOPLAP Transnodal 2021 ( ) {
+<ins>A/V Installation</ins>: [MK Calling 2020](https://www.mkgallery.org/whats-on/mk-calling-2020/) & [AI: More Than Human](https://www.barbican.org.uk/whats-on/2019/event/ai-more-than-human) (Young Barbican Night) & TOPLAP Transnodal 2021 ( ) {
 Shown at:
  X] Version I, 26th June 2019 Barbican Centre, part of AI: More Than Human, Young Barbican Night;
  X] Version II, MK Gallery, February-November 2020; 
