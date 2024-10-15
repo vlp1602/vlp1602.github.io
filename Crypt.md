@@ -6,7 +6,7 @@ permalink: /Crypt.md/
 
 # The Crypt
 
-Six channels sound composition: residency() { 
+<ins>Six-channels sound composition</ins>: residency() { 
   The Crypt Gallery, London, 10–13 January 2020;
 };
 
