@@ -14,5 +14,5 @@ permalink: /Crypt.md/
 composition comprises four sections lasting approximately ~10’. 
 Sections III and IV were released by [Dióbél Kiadó](https://diobel.bandcamp.com/) as part of [EzmBA v/a](https://diobelkiado.hu/index.php?spr=0&lang=hun).*
   
-<img alt="The Crypt Poster" class="centered-image" src="/pb.github.io/images/CryptPoster.jpg" />
+<img alt="The Crypt Poster" class="centered-image" src="/vlp1602.github.io/images/CryptPoster.jpg" />
 
