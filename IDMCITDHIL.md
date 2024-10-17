@@ -15,5 +15,5 @@ permalink: /IDMCITDHIL.md/
     
 [<img alt="Film Still" class="centered-image" src="/pb.github.io/images/DroppedMyCamera_Tunnel.jpg" />](https://youtu.be/QwcH-mlLNd8)
 
-<img alt="Film Still" class="centered-image" src="/pb.github.io/images/DroppedMyCamera_Street.jpg" />
-<img alt="Sewer Sculpture" class="centered-image" src="/pb.github.io/images/DroppedMyCamera_Sewer.jpg" />
+<img alt="Film Still" class="centered-image" src="/vlp1602.github.io/images/DroppedMyCamera_Street.jpg" />
+<img alt="Sewer Sculpture" class="centered-image" src="/vlp1602.github.io/images/DroppedMyCamera_Sewer.jpg" />
