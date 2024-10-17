@@ -15,7 +15,7 @@ permalink: /CorpusAlign/
 
    <sub>*click to watch ↴*</sub>
     
-[<img alt="Film Still" class="centered-image" src="/pb.github.io/images/Corpus_Cover.png" />](https://youtu.be/dB8S1ldyrDY?si=nSkIF1wn1wNWNGTc)
+[<img alt="Film Still" class="centered-image" src="/vlp1602.github.io/images/Corpus_Cover.png" />](https://youtu.be/dB8S1ldyrDY?si=nSkIF1wn1wNWNGTc)
 
-<img alt="Corpus Align at IKLECTIK" class="centered-image" src="/pb.github.io/images/corpus_Iklectik.jpg" />
-<img alt="Printed Metal Sheet" class="centered-image" src="/pb.github.io/images/Corpus_Install.jpg" />
+<img alt="Corpus Align at IKLECTIK" class="centered-image" src="/vlp1602.github.io/images/corpus_Iklectik.jpg" />
+<img alt="Printed Metal Sheet" class="centered-image" src="/vlp1602.github.io/images/Corpus_Install.jpg" />
