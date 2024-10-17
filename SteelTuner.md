@@ -14,5 +14,5 @@ permalink: /SteelTuner/
 *A sheet of raw steel is used to create a semi-autonomous compositional system. The resonating frequencies from the metal are analysed by a computer and used to tune several FM oscillators, these are played back onto the metal with a transducer and analysed again in a perpetual feedback.*
 
 <sub>*click to watch (extracts from live performance) ↴*</sub>
-[<img alt="Steel Tuner at Amoenus RnD" class="centered-image" src="/pb.github.io/images/steelTuner.png" />](https://player.vimeo.com/video/589309215?h=aa261a9f01)
-<img alt="Amoenus Speaker" class="centered-image" src="/pb.github.io/images/Speaker.jpg" />
+[<img alt="Steel Tuner at Amoenus RnD" class="centered-image" src="/vlp1602.github.io/images/steelTuner.png" />](https://player.vimeo.com/video/589309215?h=aa261a9f01)
+<img alt="Amoenus Speaker" class="centered-image" src="/vlp1602.github.io/images/Speaker.jpg" />
