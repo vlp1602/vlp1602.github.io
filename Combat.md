@@ -11,5 +11,5 @@ permalink: /Combat/
 
 *Sound performance using color data from a live scan of Lee Krasner’s Combat (1965);*
 
-<img alt="Combat Performance Barbican Centre 2019" class="centered-image" src="/pb.github.io/images/Combat.jpg" />
+<img alt="Combat Performance Barbican Centre 2019" class="centered-image" src="/vlp1602.github.io/images/Combat.jpg" />
 
