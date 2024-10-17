@@ -11,5 +11,5 @@ permalink: /YSOSLS.md/
 
 *The tones and rhythms of a phone conversation are translated into frequencies and rhythmical patterns, arranged to four virtual sound sources.*
   
-[<img alt="YSOSLS Gameplay and Cover Art" class="centered-image" src="/pb.github.io/images/ysosls.png" />](https://vimeo.com/451444470)
+[<img alt="YSOSLS Gameplay and Cover Art" class="centered-image" src="/vlp1602.github.io/images/ysosls.png" />](https://vimeo.com/451444470)
 
