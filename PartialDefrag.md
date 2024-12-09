@@ -6,14 +6,17 @@ permalink: /PartialDefrag.md/
 
 # Partial Defrag
 “In the empty space of a semi-compressed hard drive”
+<br>
+<br>
 
 **COVERAGE**
 [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/) (Review, Agata Kik): *"Snapshots of voices and digital debris conjuring up a journey through London's nocturnal streets"*
 [NINA Protocol](https://www.ninaprotocol.com/releases/partial-defrag-scandisk) (Staff Pick, JB Johnson): *"Prickly compositions pulled from the dregs of hard drive compression"*
 
+<br>
+<br>
 
 **ScanDisk**
-
 ScanDisk is the debut AV release of Partial Defrag on [STRATA](https://www.instagram.com/strata.edition/) (29.11.24). 
 
 *"Whispered voices, car engines, and ethereal club hooks are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimised memories tainted with artifacts."*
@@ -29,12 +32,15 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
 
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/scanDiskCover.jpg" />
 
-
+<br>
+<br>
   
 **LIVE FOOTAGE**
 10.10.24 [Strata+0.1](https://youtu.be/S_Df2o6p2D4?si=6iOVR2Pu76hxkHmr), Spanners (London)
 
-  
+<br>
+<br>
+
 **DATES**
  X] 30.1.25 TBA;
 
