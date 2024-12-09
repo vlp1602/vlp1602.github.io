@@ -22,7 +22,7 @@ This is an audio-visual release accompanied by three videos and a limited run of
 
 Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk) + [NINA](https://www.ninaprotocol.com/articles/partial-defrag-scandisk) *(Physical copies available on Bandcamp only)*
 
-<sub>*Videos accompanying the release, click to watch ↴*</sub> 
+<sub>*Videos accompanying the release ↴*</sub> 
  X] [Elmelin](https://youtu.be/npcC32gz2KQ?feature=shared)
  X] [Squat](https://youtu.be/mrEraBWjmkA?feature=shared)
  X] [VFS](https://youtu.be/3WujZG_iTCk?feature=shared)
