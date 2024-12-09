@@ -5,8 +5,9 @@ permalink: /PartialDefrag.md/
 ---
 
 # Partial Defrag
+<sub>Live Audio-Visual project releasing on STRATA</sub> 
 “In the empty space of a semi-compressed hard drive”
-*Live Audio-Visual project releasing on STRATA*
+
 
 //----[COVERAGE]------
 [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/) (Review, Agata Kik): *"Snapshots of voices and digital debris conjuring up a journey through London's nocturnal streets"*
