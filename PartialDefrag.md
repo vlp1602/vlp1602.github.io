@@ -7,13 +7,10 @@ permalink: /PartialDefrag.md/
 # Partial Defrag
 “In the empty space of a semi-compressed hard drive”
 <br>
-<br>
 
 **COVERAGE**
 [The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/) (Review, Agata Kik): *"Snapshots of voices and digital debris conjuring up a journey through London's nocturnal streets"*
 [NINA Protocol](https://www.ninaprotocol.com/releases/partial-defrag-scandisk) (Staff Pick, JB Johnson): *"Prickly compositions pulled from the dregs of hard drive compression"*
-
-<br>
 <br>
 
 **ScanDisk**
@@ -31,14 +28,10 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
  X] [VFS](https://youtu.be/3WujZG_iTCk?feature=shared)
 
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/scanDiskCover.jpg" />
+<br>
 
-<br>
-<br>
-  
 **LIVE FOOTAGE**
 10.10.24 [Strata+0.1](https://youtu.be/S_Df2o6p2D4?si=6iOVR2Pu76hxkHmr), Spanners (London)
-
-<br>
 <br>
 
 **DATES**
@@ -53,5 +46,3 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
  X] 17.11.23 [IKLECTIK Tour 2023(https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
  
  X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021;
-
-
