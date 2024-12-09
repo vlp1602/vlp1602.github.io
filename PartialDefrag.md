@@ -43,6 +43,6 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
  
  X] 9.8.24 [NEWPHORIA: THE END OF REALITY RAVE](https://ra.co/events/1862444), (ecolagbohrsac2021 x Fetchish). Corsica Studios, London;
  
- X] 17.11.23 [IKLECTIK Tour 2023(https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
+ X] 17.11.23 [IKLECTIK Tour 2023](https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
  
  X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021;
