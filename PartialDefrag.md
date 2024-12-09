@@ -21,9 +21,9 @@ permalink: /PartialDefrag.md/
 ScanDisk is the debut AV release Partial Defrag on [STRATA](https://www.instagram.com/strata.edition/) (29.11.24). 
 “A hard drive storing the after-dark, compressed and space-optimised"
 
-*Whispered voices, car engines, and ethereal club hooks are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimised memories tainted with artifacts.
-This is an audio-visual release accompanied by three videos and a limited run of 30 Blue CDs, packaged in anti-static hard drive bags.*
-<img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/scanDiskCover.jpg" />
+*Whispered voices, car engines, and ethereal club hooks are cut up, compressed, and congealed into a fluid, late-night motif for a spectral, industrial London. Partial Defrag’s free-form compositions are the leftovers of a hard drive compression: space-optimised memories tainted with artifacts.*
+
+*This is an audio-visual release accompanied by three videos and a limited run of 30 Blue CDs, packaged in anti-static hard drive bags.*
 
 Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk) + [NINA](https://www.ninaprotocol.com/articles/partial-defrag-scandisk) *(Physical copies available on Bandcamp only)*
 
@@ -31,6 +31,9 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
  X] [Elmelin](youtu.be/npcC32gz2KQ)
  X] [Squat](youtu.be/mrEraBWjmkA)
  X] [VFS](youtu.be/3WujZG_iTCk)
+
+<img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/scanDiskCover.jpg" />
+
 
 
 //----[FOOTAGE]------
