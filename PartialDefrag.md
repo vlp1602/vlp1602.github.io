@@ -3,16 +3,15 @@ title: /{{Partial Defrag}}
 layout: page
 permalink: /PartialDefrag.md/
 ---
-<img alt="Partial Defrag" class="centered-image" src="/vlp1602.github.io/images/partialDefrag.jpg" />
 
 # Partial Defrag
 “In the empty space of a semi-compressed hard drive”
 *Live Audio-Visual project releasing on STRATA*
 
 //----[COVERAGE]------
-[The Quietus (Review, Agata Kik)](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/)
+[The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/)(Review, Agata Kik)
 *("Snapshots of voices and digital debris conjuring up a journey through London's nocturnal streets")*
-[NINA Protocol (Staff Pick, JB Johnson)](https://www.ninaprotocol.com/releases/partial-defrag-scandisk)
+[NINA Protocol](https://www.ninaprotocol.com/releases/partial-defrag-scandisk)(Staff Pick, JB Johnson)
 *("Prickly compositions pulled from the dregs of hard drive compression")*
 
 //----[ScanDisk]------
@@ -25,19 +24,19 @@ This is an audio-visual release accompanied by three videos and a limited run of
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/ScanDiskCD.jpg" />
 Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk) + [NINA](https://www.ninaprotocol.com/articles/partial-defrag-scandisk) *(Physical copies available on Bandcamp only)*
 
-<sub>*Videos accompanying the release ↴*</sub> 
+<sub>*Videos accompanying the release, click to watch ↴*</sub> 
  X] [Elmelin](youtu.be/npcC32gz2KQ)
  X] [Squat](youtu.be/mrEraBWjmkA)
  X] [VFS](youtu.be/3WujZG_iTCk)
 
 //----[FOOTAGE]------
-10.10.24 [Strata+0.1, Spanners (London), (STRATA label launch event)](https://youtu.be/S_Df2o6p2D4?si=6iOVR2Pu76hxkHmr)
+10.10.24 [Strata+0.1](https://youtu.be/S_Df2o6p2D4?si=6iOVR2Pu76hxkHmr), Spanners (London)
 
 //----[PAST LIVE SHOWS]------
- X] 6.12.24 [ScanDisk Launch, Goldsmiths SIML Space (London), (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra](https://ra.co/events/2051306)
- X] 10.10.24 [Strata+0.1, Spanners (London), (STRATA label launch event) with Ans M, Veronica+, Castle Maol, Gloves to Bouquet](https://ra.co/events/1969763)
- X] 9.8.24 [NEWPHORIA: THE END OF REALITY RAVE (ecolagbohrsac2021 x Fetchish), Corsica Studios (London)](https://ra.co/events/1862444)
- X] 17.11.23 [IKLECTIK Tour 2023, White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold](https://ra.co/events/1770047)
- X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021
+ X] 6.12.24 [ScanDisk Launch](https://ra.co/events/2051306), Goldsmiths SIML, London. (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra;
+ X] 10.10.24 [Strata+0.1, Spanners (London)](https://ra.co/events/1969763), (STRATA label launch event) with Ans M, Veronica+, Castle Maol, Gloves to Bouquet;
+ X] 9.8.24 [NEWPHORIA: THE END OF REALITY RAVE](https://ra.co/events/1862444), (ecolagbohrsac2021 x Fetchish). Corsica Studios, London;
+ X] 17.11.23 [IKLECTIK Tour 2023(https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
+ X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021;
 
 
