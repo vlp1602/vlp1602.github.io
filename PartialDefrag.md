@@ -15,6 +15,7 @@ permalink: /PartialDefrag.md/
 *("Prickly compositions pulled from the dregs of hard drive compression")*
 
 //----[ScanDisk]------
+
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/scanDiskCover.jpg" />
 ScanDisk is the debut AV release Partial Defrag on [STRATA](https://www.instagram.com/strata.edition/) (29.11.24). 
 “A hard drive storing the after-dark, compressed and space-optimised"
