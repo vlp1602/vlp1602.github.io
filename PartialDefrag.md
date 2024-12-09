@@ -1,7 +1,7 @@
 ---
 title: /{{Partial Defrag}}
 layout: page
-permalink: /Partialdefrag.md/
+permalink: /PartialDefrag.md/
 ---
 <img alt="Partial Defrag" class="centered-image" src="/vlp1602.github.io/images/partialDefrag.jpg" />
 
