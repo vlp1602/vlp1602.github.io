@@ -9,10 +9,9 @@ permalink: /PartialDefrag.md/
 *Live Audio-Visual project releasing on STRATA*
 
 //----[COVERAGE]------
-[The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/)(Review, Agata Kik)
-*("Snapshots of voices and digital debris conjuring up a journey through London's nocturnal streets")*
-[NINA Protocol](https://www.ninaprotocol.com/releases/partial-defrag-scandisk)(Staff Pick, JB Johnson)
-*("Prickly compositions pulled from the dregs of hard drive compression")*
+[The Quietus](https://thequietus.com/quietus-reviews/partial-defrag-scandisk-review/) (Review, Agata Kik): *"Snapshots of voices and digital debris conjuring up a journey through London's nocturnal streets"*
+[NINA Protocol](https://www.ninaprotocol.com/releases/partial-defrag-scandisk) (Staff Pick, JB Johnson): *"Prickly compositions pulled from the dregs of hard drive compression"*
+
 
 //----[ScanDisk]------
 
