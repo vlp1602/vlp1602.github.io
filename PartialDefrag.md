@@ -36,11 +36,13 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
 
 
 
-//----[FOOTAGE]------
+//----[LIVE FOOTAGE]------
 10.10.24 [Strata+0.1](https://youtu.be/S_Df2o6p2D4?si=6iOVR2Pu76hxkHmr), Spanners (London)
 
 
-//----[PAST LIVE SHOWS]------
+//----[DATES]------
+ X] 30.1.25 TBA;
+
  X] 6.12.24 [ScanDisk Launch](https://ra.co/events/2051306), Goldsmiths SIML, London. (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra;
  
  X] 10.10.24 [Strata+0.1, Spanners (London)](https://ra.co/events/1969763), (STRATA label launch event) with Ans M, Veronica+, Castle Maol, Gloves to Bouquet;
