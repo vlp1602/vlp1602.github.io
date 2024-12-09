@@ -35,14 +35,16 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
 <br>
 
 **DATES**
- X] 30.1.25 TBA;
+X] 30.1.25 TBA;
 
- X] 6.12.24 [ScanDisk Launch](https://ra.co/events/2051306), Goldsmiths SIML, London. (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra;
+X] 6.12.24 [ScanDisk Launch](https://ra.co/events/2051306), Goldsmiths SIML, London. (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra;
  
- X] 10.10.24 [Strata+0.1, Spanners (London)](https://ra.co/events/1969763), (STRATA label launch event) with Ans M, Veronica+, Castle Maol, Gloves to Bouquet;
+X] 10.10.24 [Strata+0.1, Spanners (London)](https://ra.co/events/1969763), (STRATA label launch event) with Ans M, Veronica+, Castle Maol, Gloves to Bouquet;
  
- X] 9.8.24 [NEWPHORIA: THE END OF REALITY RAVE](https://ra.co/events/1862444), (ecolagbohrsac2021 x Fetchish). Corsica Studios, London;
- 
- X] 17.11.23 [IKLECTIK Tour 2023](https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
- 
- X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021;
+X] 9.8.24 [NEWPHORIA: THE END OF REALITY RAVE](https://ra.co/events/1862444), (ecolagbohrsac2021 x Fetchish). Corsica Studios, London;
+
+---As Pietro Bardini playing Partial Defrag material
+X] 17.11.23 [IKLECTIK Tour 2023](https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
+
+---As Pietro Bardini playing Partial Defrag material
+X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021;
