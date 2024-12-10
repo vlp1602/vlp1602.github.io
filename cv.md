@@ -1,10 +1,10 @@
 ---
 layout: page
-title: /CV->
+title: /All->
 permalink: /cv/
 ---
 
-# Projects  
+# All
 2024{
 ScanDisk Launch Event (with Isidora Edwards and Micheal-Jon Mizra), IKLECTIK & STRATA, Goldsmiths SIML Space;
 ScanDisk, AV Album released on STRATA;
