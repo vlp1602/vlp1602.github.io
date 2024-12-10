@@ -31,6 +31,7 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
 <br>
 
 **LIVE FOOTAGE**
+6.12.24 [ScanDisk Launch](https://www.youtube.com/watch?v=_5DYufSTsv8), CSTC Goldsmiths + IKLECTIK (London)
 10.10.24 [Strata+0.1](https://youtu.be/S_Df2o6p2D4?si=6iOVR2Pu76hxkHmr), Spanners (London)
 <br>
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/ScanDiskLaunch_.jpg" />
