@@ -4,8 +4,8 @@ layout: page
 permalink: /PartialDefrag.md/
 ---
 
-# Partial Defrag
-Live Audio-Visual project releasing on STRATA.
+# Partial Defrag 𓇳
+*Live AV releasing on STRATA.*
 <br>
 
 **Coverage**
