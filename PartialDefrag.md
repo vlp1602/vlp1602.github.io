@@ -5,7 +5,6 @@ permalink: /PartialDefrag.md/
 ---
 
 # Partial Defrag 𓇳
-*Live AV releasing on STRATA.*
 <br>
 
 **Coverage**
