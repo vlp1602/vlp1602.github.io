@@ -25,6 +25,7 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
  X] [Elmelin](https://youtu.be/npcC32gz2KQ?feature=shared)
  X] [Squat](https://youtu.be/mrEraBWjmkA?feature=shared)
  X] [VFS](https://youtu.be/3WujZG_iTCk?feature=shared)
+<br>
 
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/scanDiskCover.jpg" />
 <br>
