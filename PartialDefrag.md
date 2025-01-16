@@ -38,7 +38,7 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
 <br>
 
 **Dates**
-X] 30.1.25 TBA;
+X] 30.1.25 [Gloves To Bouqet: Ettrick Sites EP Launch](https://ra.co/pro/events/2078025), RCA Stage Space, London. With Gloves to Bouquet, Veronica+, Castle Maol.
 
 X] 6.12.24 [ScanDisk Launch](https://ra.co/events/2051306), Goldsmiths SIML, London. (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra;
  
