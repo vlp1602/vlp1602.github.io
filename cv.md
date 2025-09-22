@@ -9,8 +9,8 @@ permalink: /cv/
 Horsehair, with Anghgarad Davies & Maxwell Sterling, Spanners, London;  
 Live A/V, STRATA 4, with Onas Ueno, Laila Sakini & Castle Maol, at The Engine Room, London;  
 Horsehair, with Flora Yin-Wong, Caius Williams & Ute Kanngiesser, Isidora Edwarrs & Luigi Marino, Julia Dèng Hànzú, at Avalon Cafe, London;  
-Live A/V, Gloves to Bouqet Ettrcik Sites EP Launch, at RCA Stage Space, London;  
-} 
+Live A/V, Gloves to Bouqet Ettrcik Sites EP Launch, at RCA Stage Space, London;
+}  
 2024{
 ScanDisk Launch Event (with Isidora Edwards and Micheal-Jon Mizra), IKLECTIK & STRATA, Goldsmiths SIML Space;  
 ScanDisk, AV Album released on STRATA;  
