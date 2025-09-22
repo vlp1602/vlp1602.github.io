@@ -5,11 +5,17 @@ permalink: /cv/
 ---
 
 # All
+2025{
+Horsehair, with Anghgarad Davies & Maxwell Sterling, Spanners, London;  
+Live A/V, STRATA 4, with Onas Ueno, Laila Sakini & Castle Maol, at The Engine Room, London;  
+Horsehair, with Flora Yin-Wong, Caius Williams & Ute Kanngiesser, Isidora Edwarrs & Luigi Marino, Julia Dèng Hànzú, at Avalon Cafe, London;  
+Live A/V, Gloves to Bouqet Ettrcik Sites EP Launch, at RCA Stage Space, London;  
+} 
 2024{
-ScanDisk Launch Event (with Isidora Edwards and Micheal-Jon Mizra), IKLECTIK & STRATA, Goldsmiths SIML Space;
-ScanDisk, AV Album released on STRATA;
-DYCP, Arts Council England, Composing for Strings; 
-Live A/V, Strata+0.1 (STRATA Launch Event), Spanners, London;
+ScanDisk Launch Event (with Isidora Edwards and Micheal-Jon Mizra), IKLECTIK & STRATA, Goldsmiths SIML Space;  
+ScanDisk, AV Album released on STRATA;  
+DYCP, Arts Council England, Composing for Strings;  
+Live A/V, Strata+0.1 (STRATA Launch Event), Spanners, London;  
 Live A/V, NEWPHORIA: THE END OF REALITY RAVE, Corsica Studios, [ecolagbohrsac2021 x Fetchish];  
 I Dropped My Camera Into The Deepest Hole In London, Our Slanted. Deserted. Remains, hARTslane;  
 Rasa Machine with  Dominique Savitri Bonarjee, Goldsmiths SIML supported by IKLECTIK;
