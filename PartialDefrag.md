@@ -12,6 +12,12 @@ permalink: /PartialDefrag.md/
 [NINA Protocol](https://www.ninaprotocol.com/releases/partial-defrag-scandisk) (Staff Pick, JB Johnson): *"Prickly compositions pulled from the dregs of hard drive compression"*
 <br>
 
+**Memory Recoil**
+DL + Limited Edition CD on [STRATA](https://www.instagram.com/strata.edition/) (04.12.25). 
+*"Shifting from swirling sound design to teetering piano motifs, Memory Recoil ventures deeper into the heart of the hard drive, where the haunted remnants of compressed data are mechanically recombined into uncanny, heartfelt confabulations."*
+
+Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/memory-recoil) + [NINA](https://www.ninaprotocol.com/releases/partial-defrag-memory-recoil-83qmmak3a9u1) *(Physical copies available on Bandcamp only)*
+
 **ScanDisk**
 ScanDisk is the debut AV release of Partial Defrag on [STRATA](https://www.instagram.com/strata.edition/) (29.11.24). 
 
@@ -36,18 +42,3 @@ Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/scandisk
 <br>
 <img alt="ScanDisk Cover" class="centered-image" src="/vlp1602.github.io/images/ScanDiskLaunch_.jpg" />
 <br>
-
-**Dates**
-X] 30.1.25 [Gloves To Bouqet: Ettrick Sites EP Launch](https://ra.co/pro/events/2078025), RCA Stage Space, London. With Gloves to Bouquet, Veronica+, Castle Maol.
-
-X] 6.12.24 [ScanDisk Launch](https://ra.co/events/2051306), Goldsmiths SIML, London. (Event supported by CSTC Goldsmiths and IKLECTIK) with Isidora Edwards and Michal-Jon Mizra;
- 
-X] 10.10.24 [Strata+0.1, Spanners (London)](https://ra.co/events/1969763), (STRATA label launch event) with Ans M, Veronica+, Castle Maol, Gloves to Bouquet;
- 
-X] 9.8.24 [NEWPHORIA: THE END OF REALITY RAVE](https://ra.co/events/1862444), (ecolagbohrsac2021 x Fetchish). Corsica Studios, London;
-
----As Pietro Bardini playing Partial Defrag material
-X] 17.11.23 [IKLECTIK Tour 2023](https://ra.co/events/1770047)], White Hotel (Manchester) with Blood of Aza, Dale Cornish, John-Robin Bold;
-
----As Pietro Bardini playing Partial Defrag material
-X] 29.8.23 Cafe Oto, with BABA YAGA's HUT Maria Bertel + ecolagbohrsac2021;
