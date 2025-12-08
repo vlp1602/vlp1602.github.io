@@ -6,6 +6,8 @@ permalink: /cv/
 
 # All
 2025{
+Memory Recoil, EP (DL + CD) released on STRATA;
+Live A/V, STRATA 5, with Canaan Balsam, Vittoria Assembri and Paola Lesina, Onas Ueno, at The Horse Hospital, London;  
 Horsehair, with Anghgarad Davies & Maxwell Sterling, Spanners, London;  
 Live A/V, STRATA 4, with Onas Ueno, Laila Sakini & Castle Maol, at The Engine Room, London;  
 Horsehair, with Flora Yin-Wong, Caius Williams & Ute Kanngiesser, Isidora Edwarrs & Luigi Marino, Julia Dèng Hànzú, at Avalon Cafe, London;  
