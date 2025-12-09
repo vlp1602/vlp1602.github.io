@@ -18,6 +18,7 @@ DL + Limited Edition CD on [STRATA](https://www.instagram.com/strata.edition/) (
 
 Listen & Support on [Bandcamp](https://strataedition.bandcamp.com/album/memory-recoil) + [NINA](https://www.ninaprotocol.com/releases/partial-defrag-memory-recoil-83qmmak3a9u1) *(Physical copies available on Bandcamp only)*
 
+<br>
 <img alt="Memory Recoil Cover." class="centered-image" src="/vlp1602.github.io/images/Memory Recoil_Cover.jpg" />
 <br>
 
